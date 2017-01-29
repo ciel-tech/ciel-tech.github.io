@@ -1,5 +1,7 @@
 {
-    "name": "Ciel-Tech",
+    "name": "Ciel Technologies Data Recovery",
+    "short_name": "Ciel-Tech",
+    "description": "Providing data recovery from Hard disk, Computers, Phones. Repair & maintenance",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
