@@ -1,0 +1,131 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciel-tech.com" resolutions="1x" timestamp="1498043997147">
+  <folder name="assets">
+    <file name="--mt---slider---span-slider-(1.0).mulib" crc="344071062" seo="true" mt="1454980668000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="107264945"/>
+    <file name="master_a-master.css" crc="4288754879" ref="frequently-asked-questions:services:index:contact:about:hard-disk-data-recovery:raid-array-data-recovery:solid-state-drive-data-recovery:usb-and-memory-card-data-recovery:software-system-data-recovery:cd,-dvd,-floppy---tape-data-recovery:mobile-phones---tablets-data-recovery"/>
+    <file name="frequently-asked-questions.css" crc="213652839" ref="frequently-asked-questions"/>
+    <file name="services.css" crc="29407340" ref="services"/>
+    <file name="index.css" crc="3840000636" ref="index"/>
+    <file name="contact.css" crc="378445777" ref="contact"/>
+    <file name="about.css" crc="31942662" ref="about"/>
+    <file name="hard-disk-data-recovery.css" crc="3979986120" ref="hard-disk-data-recovery"/>
+    <file name="raid-array-data-recovery.css" crc="4253645029" ref="raid-array-data-recovery"/>
+    <file name="solid-state-drive-data-recovery.css" crc="147316368" ref="solid-state-drive-data-recovery"/>
+    <file name="usb-and-memory-card-data-recovery.css" crc="3988316864" ref="usb-and-memory-card-data-recovery"/>
+    <file name="software-system-data-recovery.css" crc="3826659891" ref="software-system-data-recovery"/>
+    <file name="cd_-dvd_-floppy---tape-data-recovery.css" crc="227865251" ref="cd,-dvd,-floppy---tape-data-recovery"/>
+    <file name="mobile-phones---tablets-data-recovery.css" crc="4164998431" ref="mobile-phones---tablets-data-recovery"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:services:frequently-asked-questions:contact:hard-disk-data-recovery:raid-array-data-recovery:solid-state-drive-data-recovery:usb-and-memory-card-data-recovery:software-system-data-recovery:mobile-phones---tablets-data-recovery:cd,-dvd,-floppy---tape-data-recovery"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about:services:frequently-asked-questions:contact:hard-disk-data-recovery:raid-array-data-recovery:solid-state-drive-data-recovery:usb-and-memory-card-data-recovery:software-system-data-recovery:mobile-phones---tablets-data-recovery:cd,-dvd,-floppy---tape-data-recovery"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:services:frequently-asked-questions:contact:hard-disk-data-recovery:raid-array-data-recovery:solid-state-drive-data-recovery:usb-and-memory-card-data-recovery:software-system-data-recovery:mobile-phones---tablets-data-recovery:cd,-dvd,-floppy---tape-data-recovery"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:about:services:frequently-asked-questions:contact:hard-disk-data-recovery:raid-array-data-recovery:solid-state-drive-data-recovery:usb-and-memory-card-data-recovery:software-system-data-recovery:mobile-phones---tablets-data-recovery:cd,-dvd,-floppy---tape-data-recovery"/>
+    <file name="webpro.js" crc="3770351119" ref="index:frequently-asked-questions:contact"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about:services:frequently-asked-questions:contact:hard-disk-data-recovery:raid-array-data-recovery:solid-state-drive-data-recovery:usb-and-memory-card-data-recovery:software-system-data-recovery:mobile-phones---tablets-data-recovery:cd,-dvd,-floppy---tape-data-recovery"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about:services:frequently-asked-questions:contact:hard-disk-data-recovery:raid-array-data-recovery:solid-state-drive-data-recovery:usb-and-memory-card-data-recovery:software-system-data-recovery:mobile-phones---tablets-data-recovery:cd,-dvd,-floppy---tape-data-recovery"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index:about:services:frequently-asked-questions:contact:hard-disk-data-recovery:raid-array-data-recovery:solid-state-drive-data-recovery:usb-and-memory-card-data-recovery:software-system-data-recovery:mobile-phones---tablets-data-recovery:cd,-dvd,-floppy---tape-data-recovery"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:services:frequently-asked-questions:contact:hard-disk-data-recovery:raid-array-data-recovery:solid-state-drive-data-recovery:usb-and-memory-card-data-recovery:software-system-data-recovery:mobile-phones---tablets-data-recovery:cd,-dvd,-floppy---tape-data-recovery"/>
+    <file name="require.js" crc="4234670167" ref="index:about:services:frequently-asked-questions:contact:hard-disk-data-recovery:raid-array-data-recovery:solid-state-drive-data-recovery:usb-and-memory-card-data-recovery:software-system-data-recovery:mobile-phones---tablets-data-recovery:cd,-dvd,-floppy---tape-data-recovery"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u3638.php" crc="3916107117" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="about:services:frequently-asked-questions:contact:hard-disk-data-recovery:raid-array-data-recovery:solid-state-drive-data-recovery:usb-and-memory-card-data-recovery:software-system-data-recovery:mobile-phones---tablets-data-recovery:cd,-dvd,-floppy---tape-data-recovery"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="frequently-asked-questions"/>
+    <file name="form-u6095.php" crc="4156034606" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="112430096" ref="index"/>
+    <file name="slide 1.jpg" crc="3971821350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:services:frequently-asked-questions:contact:hard-disk-data-recovery:raid-array-data-recovery:solid-state-drive-data-recovery:usb-and-memory-card-data-recovery:software-system-data-recovery:mobile-phones---tablets-data-recovery:cd,-dvd,-floppy---tape-data-recovery"/>
+    <file name="slide 5.jpg" crc="4117873830" ref="index:about" seo="true">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hard-disk-data-recovery" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="hdd-recovery" alt=""/>
+    </file>
+    <file name="slide 2.jpg" crc="401298138" ref="index:frequently-asked-questions" seo="true">
+      <caption webpage="index" alt=""/>
+      <caption webpage="frequently-asked-questions" alt=""/>
+    </file>
+    <file name="slide 3.jpg" crc="4223191458" seo="true" ref="index:contact">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slide 4.jpg" crc="442422066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slide 6.jpg" crc="19592908" ref="index:services:hard-disk-data-recovery" seo="true">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="hdd-recovery" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="ciel_technologies-01.svg" crc="3889832814" seo="true" ref="index:about:services:frequently-asked-questions:contact:hard-disk-data-recovery:raid-array-data-recovery:solid-state-drive-data-recovery:usb-and-memory-card-data-recovery:software-system-data-recovery:mobile-phones---tablets-data-recovery:cd,-dvd,-floppy---tape-data-recovery">
+      <caption webpage="solid-state-drive-data-recovery" alt=""/>
+      <caption webpage="solid-state-drive-data-recovery" alt=""/>
+      <caption webpage="hard-disk-data-recovery" alt=""/>
+      <caption webpage="hard-disk-data-recovery" alt=""/>
+      <caption webpage="raid-array-data-recovery" alt=""/>
+      <caption webpage="raid-array-data-recovery" alt=""/>
+      <caption webpage="cd,-dvd,-floppy---tape-data-recovery" alt=""/>
+      <caption webpage="cd,-dvd,-floppy---tape-data-recovery" alt=""/>
+      <caption webpage="software-system-data-recovery" alt=""/>
+      <caption webpage="software-system-data-recovery" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="mobile-phones---tablets-data-recovery" alt=""/>
+      <caption webpage="mobile-phones---tablets-data-recovery" alt=""/>
+      <caption webpage="usb-and-memory-card-data-recovery" alt=""/>
+      <caption webpage="usb-and-memory-card-data-recovery" alt=""/>
+      <caption webpage="frequently-asked-questions" alt=""/>
+      <caption webpage="frequently-asked-questions" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="hdd-recovery" alt=""/>
+      <caption webpage="hdd-recovery" alt=""/>
+    </file>
+    <file name="ciel_technologies-01_poster_.png" crc="305263396" ref="index"/>
+    <file name="raid_slide.jpg" crc="115802754" ref="raid-array-data-recovery">
+      <caption webpage="raid-array-data-recovery" alt=""/>
+    </file>
+    <file name="hdd recovery.jpg" crc="4115835451" ref="hard-disk-data-recovery">
+      <caption webpage="hard-disk-data-recovery" alt=""/>
+    </file>
+    <file name="ssd slide.jpg" crc="361104535" ref="solid-state-drive-data-recovery">
+      <caption webpage="solid-state-drive-data-recovery" alt=""/>
+    </file>
+    <file name="flash_slide.jpg" crc="360373455" ref="solid-state-drive-data-recovery:usb-and-memory-card-data-recovery">
+      <caption webpage="solid-state-drive-data-recovery" alt=""/>
+    </file>
+    <file name="software_slide.jpg" crc="171396069" ref="software-system-data-recovery">
+      <caption webpage="software-system-data-recovery" alt=""/>
+    </file>
+    <file name="mobile_slide.jpg" crc="3829736803" ref="mobile-phones---tablets-data-recovery:cd,-dvd,-floppy---tape-data-recovery">
+      <caption webpage="mobile-phones---tablets-data-recovery" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="256917949" seo="true" mt="1498043974471" redirect="true"/>
+  <file name="about.html" crc="223416535" seo="true" mt="1498028888011" redirect="true"/>
+  <file name="services.html" crc="4100333968" seo="true" mt="1498035500564" redirect="true"/>
+  <file name="frequently-asked-questions.html" crc="4016064449" seo="true" mt="1498028888011" redirect="true"/>
+  <file name="contact.html" crc="4270291262" seo="true" mt="1498028888011" redirect="true"/>
+  <file name="hard-disk-data-recovery.html" crc="3883083100" seo="true" mt="1498028888011" redirect="true"/>
+  <file name="raid-array-data-recovery.html" crc="220049441" seo="true" mt="1498028888011" redirect="true"/>
+  <file name="solid-state-drive-data-recovery.html" crc="840644" seo="true" mt="1498028888011" redirect="true"/>
+  <file name="usb-and-memory-card-data-recovery.html" crc="535829472" seo="true" mt="1498028888011" redirect="true"/>
+  <file name="software-system-data-recovery.html" crc="4171976954" seo="true" mt="1498031830594" redirect="true"/>
+  <file name="mobile-phones---tablets-data-recovery.html" crc="264795955" seo="true" mt="1498033756337" redirect="true"/>
+  <file name="cd,-dvd,-floppy---tape-data-recovery.html" crc="3820020167" seo="true" mt="1498035425361" redirect="true"/>
+</manifest>
